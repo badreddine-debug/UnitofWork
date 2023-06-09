@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\bin\Debug\ConsoleUnitOfWork.exe
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\bin\Debug\ConsoleUnitOfWork.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\obj\x86\Debug\ConsoleUnitOfWork.exe
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\obj\x86\Debug\ConsoleUnitOfWork.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\bin\Debug\UnitOfWork.dll
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\bin\Debug\UnitOfWork.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\ConsoleUnitOfWork\obj\x86\Debug\ConsoleUnitOfWork.csprojResolveAssemblyReference.cache
